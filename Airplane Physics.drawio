@@ -1,1 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T20:03:41.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="2_3tVYljGx07498o6FU6" version="16.6.0" type="github"><diagram id="D2W7shwD7pkVKXSD43DM" name="Page-1">1VrRk5o8EP9rfNSBBFQer3fX63Xa+ZzaTq+PqeQgnUhojKf2r/+CBCFBUOfU4D14ybILy+7+spsNPXg/Xz9xlMZfWYhpDzjhugcfekD+BSP5L6NscsrYgTkh4iTMSW5JmJJ/WBEdRV2SEC80RsEYFSTViTOWJHgmNBrinK10tldG9aemKMI1wnSGaJ36k4QiVm/hOyX9EyZRXDzZddSVOSqYFWERo5CtKiT42IP3nDGRj+bre0wz4xV2yeU+NlzdKcZxIo4REBPv8z/87em/+O1lzQPxN2FOXzljITbFC+NQvr+aMi5iFrEE0ceS+oGzZRLi7K6OnJU8XxhLJdGVxD9YiI1yJloKJkmxmFN1VSrMNy+Z/MAvpr/U7baTh7U226hZrmumYKMJFGnBlnyGW967CCXEIyxa+MDOUTLCMZtjqY+U45giQd50PZAKtWjHtxOdMCI1BI6ChVcEiQKFCx39FrleSqr0qRxU1ChJW0+f4HWl8BuiS/UKd4SnFCVYUp+TdCkWtbjQvb6KicDTFG2NvJLQ1z2s7o+5wOt2X9VtqwSgp9uoQNyqRKFbQCuuIHDoNHtDs+OpRoO+FaysiXgp0CDHW5wMgK+mJVKySQGUDgAMHAswZ38UnIawO87RpsKQZshZNAMQugYAx76+dh7iN9dag78PglYBOchVPiusQRus75l0NaMU8x4YUumSD7+zUZSN+k+U/UY0T6M7ro4tAO7I9grgepazpQthFc7uwHFHByC9nU0wJ9IE0qlnx7l3pUT6Lsd5bcC4w5yFmwTNyWyxBxpfyGsGbJSE8veBo8g6MNyhDgxZU9eBAa8KDLupcVBkw12Oa8yMZ4z84S1E/rAt8h+TiCR4T9B/m3ytEz8xvsApW3UwNezm9lKD7Y1UUGaCX9WrltJCcAvgCNrAMeEsxQ3l0jQlSUKSKHvDOGNOS2bL0PCdziWHkVVouFVYVPZDV+gx3ESGcFtThNo1yNF0yV+zuLUd4CNgBLi7J8C9qwZ4YLP6KcaV8D6iL6CDYnRNVIxvAhXjNlT8jHHW5raMhL7ZlAhsV0HFw/Zb7cezfZNB37CZ9coRWFk9zghoAN8J1IYWGoRDfaF3DBc0NMlP7QX2vbGRUfwDzb2aZrrAZZp7Rc3W/T12U/f50J7knDF5dFvqve3n9x0puDZ8ek47+5fBPjCW6Yth3zWryUPYr2l2DewDv5ZXPy63B+3PSUhmSDD7G09ZMh2x87zuiR2wsmRW+vVGU2bgDG3368HRm1IrB3N982jcOwRIUwAeOpozsze8ytFcfZf9PeZMCGp/R933jXaqB6wj1/ZJm7XCZXQThUuhZjUhUZTa/2qktsHrQCxbORo4Z0yOz5EJbBZ5RqMEBicWeYbAhVLE3paTJExTLCOhW7XeqGsoA7CeYNEsZnkZZd1gZoq1XxyDPR9FUEE6Yi9zGb+kveS0/Ao3R3P5LTN8/B8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-17T20:04:59.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="p2hUaSJWLXuc4uOrumQW" version="16.6.0" type="github">
+  <diagram id="D2W7shwD7pkVKXSD43DM" name="Page-1">
+    <mxGraphModel dx="2090" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tP4JzeRGOhvXxr9tqno0-1" target="tP4JzeRGOhvXxr9tqno0-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-1" value="Airplane Inputs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tP4JzeRGOhvXxr9tqno0-2" target="tP4JzeRGOhvXxr9tqno0-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="185" />
+              <mxPoint x="310" y="120" />
+              <mxPoint x="-290" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-2" value="Airplane Controller&lt;br&gt;-Global controller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.133;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tP4JzeRGOhvXxr9tqno0-4" target="tP4JzeRGOhvXxr9tqno0-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-4" value="Airplane Aerodynamics&lt;br&gt;-Lift and Drag" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="tP4JzeRGOhvXxr9tqno0-6" target="tP4JzeRGOhvXxr9tqno0-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-6" value="Airplane Engines&lt;br&gt;RPM&lt;br&gt;Horsepower" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.917;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tP4JzeRGOhvXxr9tqno0-9" target="tP4JzeRGOhvXxr9tqno0-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-9" value="Airplane Propeller&lt;br&gt;-Spinning the propeller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tP4JzeRGOhvXxr9tqno0-16" target="tP4JzeRGOhvXxr9tqno0-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-16" value="Airplane Control Surface" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="210" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="tP4JzeRGOhvXxr9tqno0-18" target="tP4JzeRGOhvXxr9tqno0-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-18" value="Airplane Wheel" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-20" value="Airplane UI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tP4JzeRGOhvXxr9tqno0-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-336" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-480" y="250" />
+              <mxPoint x="-336" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="tP4JzeRGOhvXxr9tqno0-24" target="tP4JzeRGOhvXxr9tqno0-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tP4JzeRGOhvXxr9tqno0-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-250" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-120" y="250" />
+              <mxPoint x="-250" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-25" value="Fuel Indicator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.114;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tP4JzeRGOhvXxr9tqno0-26" target="tP4JzeRGOhvXxr9tqno0-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-400" y="450" />
+              <mxPoint x="-400" y="320" />
+              <mxPoint x="-336" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-26" value="Throttle" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-540" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="tP4JzeRGOhvXxr9tqno0-27" target="tP4JzeRGOhvXxr9tqno0-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-27" value="Flaps" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tP4JzeRGOhvXxr9tqno0-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-250" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-110" y="390" />
+              <mxPoint x="-250" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-28" value="Air Speed Indicator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-23" value="Tachometer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-540" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tP4JzeRGOhvXxr9tqno0-24" value="Altimeter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
